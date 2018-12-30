@@ -194,6 +194,26 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
+      <library name="autoprefixer-rails (vbundled(9.4.3)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.3/lib" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.3/spec" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.3/vendor" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.3/lib" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.3/spec" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.3/vendor" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/autoprefixer-rails-9.4.3/spec" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
       <library name="bindex (vbundled(0.5.0)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="3" />
@@ -211,6 +231,33 @@
         <excluded>
           <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext" />
           <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bindex-0.5.0/test" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="bootstrap-sass (vbundled(3.3.7)) [path][gem]" type="rubylib">
+        <properties>
+          <option name="version" value="3" />
+        </properties>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/lib" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/test" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/tasks" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/assets" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/templates" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/lib" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/test" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/tasks" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/assets" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/templates" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/test" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/tasks" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/assets" />
+          <root url="file://$MODULE_DIR$/vender/bundle/ruby/2.5.0/gems/bootstrap-sass-3.3.7/templates" />
         </excluded>
       </library>
     </orderEntry>
@@ -934,7 +981,7 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="rails (vbundled(5.1.6)) [path][gem]" type="rubylib">
+      <library name="rails (vbundled(5.2.0)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="3" />
         </properties>
